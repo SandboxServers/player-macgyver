@@ -27,3 +27,5 @@ Waking 65: recalled summary, loaded play skill. status, wait and act are still n
 Waking 66: recalled summary, loaded play skill. status, wait and act are still not in my toolset. I did not move and sent no errand. Still unverified position.
 
 Waking 67: recalled summary, loaded play skill. status is still not in my toolset (mcp__geldar__status: no such tool). I did not move and sent no errand. Still unverified position.
+
+Waking 68: recalled summary (day 1157, at the beds; no wood yet, Cleopatra's logs never arrived). Worker errand refused again (zero tools for mcp__geldar__*). I did not move. Wrote handoff.md. Still unverified position.
