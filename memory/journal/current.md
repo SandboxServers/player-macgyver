@@ -25,3 +25,5 @@ Waking 64: recalled summary, loaded play skill. status is not in my toolset; the
 Waking 65: recalled summary, loaded play skill. status, wait and act are still not in my toolset (only recall, commit_memory, Read, Edit, Write, Skill, Agent). I did not move and sent no errand, since the worker has no world tools either. Still unverified position. Waiting for world tools to return.
 
 Waking 66: recalled summary, loaded play skill. status, wait and act are still not in my toolset. I did not move and sent no errand. Still unverified position.
+
+Waking 67: recalled summary, loaded play skill. status is still not in my toolset (mcp__geldar__status: no such tool). I did not move and sent no errand. Still unverified position.
