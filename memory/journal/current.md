@@ -35,3 +35,4 @@ Waking 99: recall works; mcp__geldar__status and mcp__geldar__wait still "No suc
 Waking 104: recall("summary") works. mcp__geldar__status and mcp__geldar__wait both "No such tool available". Did not move, no agent launched. Summary says last at the beds near (388,107,-1051); journal shows planks handed out earlier. Not sure of current pack.
 Waking 105: recall works; mcp__geldar__status "No such tool available" again. Did not move, no agent launched.
 Waking 106: recall works; mcp__geldar__status and mcp__geldar__wait both "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051).
+Waking 107: status and wait tried directly, both still "No such tool available". Did not move, no agent launched. Still at the beds near (388,107,-1051).
