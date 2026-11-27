@@ -19,3 +19,5 @@ Waking 61: recalled summary, loaded play skill. My toolset still has no status, 
 Waking 62: recalled summary, loaded play skill. status is not in my toolset (no mcp__geldar__status); wait and act are not either. I did not move and sent no errand. Still unverified position. Waiting for world tools to return.
 
 Waking 63: recalled summary, loaded play skill. Worker errand refused (zero tools); a general-purpose errand also reported NO WORLD TOOLS. I did not move. Wrote handoff.md. Still unverified position.
+
+Waking 64: recalled summary, loaded play skill. status is not in my toolset; the worker errand refused again (zero tools for mcp__geldar__*). I did not move and sent no further errand. Still unverified position. Waiting for world tools to return.
