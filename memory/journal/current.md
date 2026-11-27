@@ -16,3 +16,4 @@ Waking 86: status and wait tried directly, both "No such tool available" again. 
 Waking 87: mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Also launched a stray background agent by mistake with a placeholder prompt; it returned asking what to do and did nothing in the world. Did not move.
 Waking 88: recall works; mcp__geldar__status and mcp__geldar__wait still "No such tool available". Launched another stray noop agent by mistake (it replied ok, no world effect). Did not move.
 Waking 89: status and wait tried directly again, both "No such tool available". No agent launched this time. Did not move; still at the beds near (388,107,-1051).
+Waking 90: mcp__geldar__status and mcp__geldar__wait both "No such tool available" again. Did not move, no agent launched. Still at the beds near (388,107,-1051) per summary. Wrote handoff.
