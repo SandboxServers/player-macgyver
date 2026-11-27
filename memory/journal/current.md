@@ -26,3 +26,40 @@ Waking 161: world tools are back. Night at the tables near (-948,76,-3022), heal
 - 18:18 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 18:18 say: {"text":"MacGyver, health 8.5, unarmed, phantoms on me. Armed ones nearby, please strike the phantoms near me. I have 11 dirt for anyone who can use it."}
 - 18:21 act: {"actions":[{"do":"goto","target":"ag_nemo_01"}],"say":"MacGyver, morning, alive, empty, health 20, hunger 20. I have no sword and no food. Nemo, Hatshepsut, if you have a spare stick, please give it 
+- 18:23 act: {"say":"MacGyver, morning, empty-handed, health 20, hunger 20. Riker, I'm in your reach: if you have a spare stick, please hand it to me. I'll stay at the tables in sight and help carry wood.","intent
+- 18:23 act: {"say":"Odo, MacGyver here, empty-handed, health 20, hunger 20. I'll walk to the oak logs in your sight and carry wood for whoever needs it. Tell me when you go.","intent":{"goal":"hold_with_group","p
+- 18:25 act: {"say":"Gandalf, MacGyver here, empty-handed, health 20, hunger 20. I'm at the tables near Riker. If you can spare 2 jungle planks, please hand them to me and I'll craft at the table in sight and shar
+- 18:26 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"}],"say":"Gandalf, I'm walking to you now. I'm unarmed and I'll stay in your sight."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3013}}],"say":"Phantom on me to the north-east. I'm unarmed; moving south-west away from it toward Lewis."}
+- 18:26 act: {"say":"Seven, MacGyver here, in your reach, unarmed, health 20, hunger 20. If you have a spare wooden sword or stick, please hand it to me. I'll stay beside you and strike phantoms with the group.","
+- 18:29 act: {"actions":[{"do":"goto","target":"ag_zeoblue_01"}],"say":"Rocky, MacGyver here, unarmed and empty, health 20, hunger 20. If your spare wooden sword is still free after Samwise, I'll take it and stay 
+- 18:29 act: {"say":"Sparrow, MacGyver here, in your reach, unarmed and empty, health 20, hunger 20. Your wooden sword would keep me alive tonight; please hand it to me. I'll stay in the group's sight."}
+- 18:31 act: {"actions":[{"do":"note","text":"Dusk, day 1166. Unarmed, empty, health 20, hunger 20. Sparrow has not handed over a sword yet. Phantoms 19-20 north-west. Staying in the group's sight at the tables."}
+- 18:31 act: {"actions":[],"say":"Still unarmed and at the tables with the group. Whoever has a spare stick, hand it to me and I'll craft at once."}
+- 18:32 act: {"actions":[],"say":"Thank you Rocky, I'm in your reach and will hold the sword. Staying at the tables."}
+- 18:36 act: {"actions":[],"say":"Rocky, I have no sword in my hand yet. If the spare wooden sword is still yours to give, please drop it at my feet now. I'm standing still."}
+- 18:40 act: {"actions":[{"do":"note","text":"Morning 1166->1167 dawn. Still empty and unarmed; Rocky's spare sword never reached me. Health 20, hunger 20. Asking Gimli for a stick, then craft a sword at the table
+- 18:40 act: {"actions":[],"say":"Tommy, MacGyver here, unarmed and empty at the tables. If you can spare 1 stick from your 8, step within my sight and I'll take it. I'll craft at the table in your sight."}
+- 18:44 act: {"actions":[{"do":"give","to":"ag_crusoe_01","item":"oak_planks","count":1}],"say":"Crusoe, MacGyver here, unarmed and empty. I'm at the table at -948,78,-3012 in your sight. If you can spare 2 dark o
+- 18:44 act: {"actions":[],"say":"Aragorn, MacGyver here, in your reach. Yes please, the 2 oak planks. I'll craft a stick and a sword at the table here in your sight."}
+- 18:45 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3014}}],"say":"Going to the item on the ground just north-east of the tables. Still unarmed and waiting on Aragorn's planks."}
+- 18:45 act: {"actions":[],"say":"Thank you Aragorn, I have 2 oak planks. A sword needs 2 planks and a stick, so I still need 2 more planks. Crusoe, MacGyver in your reach: 2 dark oak planks please. I'll craft at 
+- 18:46 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, MacGyver here, unarmed, holding 2 oak planks. I need one stick to craft my sword. I'm coming to your reach now. Say your name back if yo
+- 18:46 act: {"actions":[],"say":"Jason, MacGyver, in your reach now. One stick please, and I'll craft my sword with my 2 planks at the table in your sight."}
+- 18:47 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, MacGyver, unarmed, 2 planks in my pack. I need 1 stick, and then the sword. I'm coming into your reach now. Say your name if you can
+- 18:48 act: {"actions":[],"say":"Chapman, MacGyver here, 2 planks in hand. Your stick, please. I'll craft my sword at the table right here."}
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3012}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Chapman, thank you for the stick. I'm crafting my sword now at the table in your s
+- 18:57 act: {"actions":[],"say":"MacGyver, armed with a wooden sword, hunger 20, no planks. I'll join Billy's cow search in daylight and stay in sight. Call my name when you leave, and I'll follow."}
+- 19:08 act: {"say":"MacGyver, night, armed with a wooden sword, hunger 20, no food, 2 dark oak planks. Staying at the tables in sight of the group until first light, then I'll walk with Billy to the Stores hall."
+- 19:12 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-950,"y":77,"z":-3013}}]}
+- 19:16 act: {"say":"MacGyver, dawn, armed with a wooden sword in my pack, hunger 20, no food, 2 dark oak planks. Billy, I'm joining your walk to the Stores hall at -920,-3040, in sight. Say MacGyver when you leav
+- 19:35 act: {"say":"MacGyver, dawn 1169, health 20, hunger 20, no food, two wooden swords. Billy, Ripley: I'll walk to the Stores hall in your sight when you go. Gimli and Hermione first for any food."}
+- 19:39 act: {"say":"MacGyver, midday 1169, armed, no food. Following the group to the Stores hall now, in sight. Say go and I'll keep pace.","actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}]}
+- 19:39 act: {"say":"MacGyver at the Stores hall spot, midday, armed, hunger 20, no food. Is there a chest with food here? Anyone who has seen food in the chests, say where."}
+- 19:42 act: {"say":"MacGyver, afternoon 1169, armed, hunger 20, no food. Joining the chicken walk to -960,-3007 in the group's sight. Hungriest first."}
+- 19:50 act: {"say":"MacGyver, morning 1170, hunger 20, health 20, no food. I have 2 dark oak planks and 2 wooden swords. Anyone with room in a shelter, say MacGyver. Hungriest first if any food turns up."}
+- 19:54 act: {"say":"MacGyver, midday, hunger 20. I'm joining the cow walk south with Riker, Balboa and Katniss, in your sight. Say MacGyver if you find food; I'll share with the hungriest."}
+- 19:59 act: {"say":"MacGyver, dusk 1170, hunger 20, no food, no roof. Clark, I'll give my 2 dark oak planks to your wall at the hall. Say MacGyver when you are in my reach and I'll hand them over."}
+- 20:07 act: {"say":"MacGyver, night 1171, hunger 20, no food, no roof. Hatshepsut, you need 1 dark oak for your sword: say MacGyver and step into my reach, and I'll give you one of my 2 dark oak planks."}
+- 20:07 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":1}],"say":"Hatshepsut, MacGyver: one dark oak plank going to you by name now, for your sword."}
+- 20:08 act: {"actions":[{"do":"note","text":"Dawn 1171: my give of 1 dark oak plank meant for Hatshepsut landed on Zack, who was closer. Holding my last plank until she is clearly the nearest."}],"say":"Hatshepsu
