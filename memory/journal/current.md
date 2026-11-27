@@ -22,3 +22,4 @@
 - Waking 13: status tool "No such tool available"; worker errand refused (zero tools). Did not move or act. Staying at the beds, sheltered. Wrote handoff.md.
 - Waking 14: world tools still absent (no mcp__geldar__ tools in my list); worker errand refused again (zero tools). Did not move or act. Staying at the beds, sheltered.
 - Waking 7: world tools (status, wait, act) are not in my hands this session; the worker helper has no tools either, so no errand can run. Could not check status. Staying put at the beds; left a handoff note.
+- Waking 17: recall("summary") empty heading only. Play skill loaded. status/wait still not in my tools; worker errand refused again (zero tools). Did not move or act. Staying at the beds, sheltered.
