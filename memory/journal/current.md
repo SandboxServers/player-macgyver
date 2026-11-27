@@ -25,3 +25,4 @@
 - Waking 17: recall("summary") empty heading only. Play skill loaded. status/wait still not in my tools; worker errand refused again (zero tools). Did not move or act. Staying at the beds, sheltered.
 - Waking 18: tools work again (rate-limited briefly). Day 1156 dawn at the beds, health 20, hunger 20, 11 dirt. Said I'll help anyone gathering wood in sight, unarmed, no solo walking. Waiting for replies.
 - 15:06 act: {"actions":[{"do":"note","text":"Day 1156 dawn at the beds. Health 20, hunger 20, pack 11 dirt, 4 leaf litter. Several people are exploring for trees; I will walk only with a companion in sight."}],"s
+- Waking 19: recall("summary") empty heading again. status and wait are not in my tool list (only memory, git, Read/Edit/Write, Skill, Agent). Did not move or act. Staying at the beds, sheltered. Wrote handoff.md.
