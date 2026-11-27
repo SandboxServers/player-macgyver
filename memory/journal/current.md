@@ -4,3 +4,4 @@
 - 13:52 act: {"actions":[{"do":"unstick"}]}
 - 13:52 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}}]}
 - 13:53 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 13:54 act: {"say":"Night, unarmed, a pillager 7 blocks north-east. I am staying low and still here, away from the beds, until it is light.","intent":{"goal":"hold_still_until_dawn","program":"rest","arguments":{
