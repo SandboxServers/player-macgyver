@@ -2,3 +2,4 @@ Waking 74. At (-950,77,-3027) per last notes, with the group. Tried to reach the
 Waking 75: still no world tools in my toolset (status, wait, act, look absent). Did not move. Recorded the state in handoff and will try again on the next waking.
 - Pack as last noted: 3 oak logs, 4 planks, 11 dirt, 4 leaf litter. Hunger 20, health 20 at last report.
 - Plan: stay put, do not move while stuck. Retry the world tools on my next waking. If still stuck, keep waiting and do not walk off alone.
+Waking 76: still no world tools (status, wait, act). Worker errand refused again: its tools match nothing this session. Did not move.
