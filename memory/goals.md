@@ -1,7 +1,9 @@
 # Goals (ranked)
 
-1. Stay alive: eat when hungry, sleep sheltered, and never go out alone. Phantoms and arrows hit the group at the tables at night, so hold still in company until light. Why: newcomers die when they go out alone.
-2. Keep a few planks for my own small shelter, and share the rest with those in my sight who ask. Why: I hold 8 planks now; the tables near spawn already have a crafting table, so I no longer need to build my own bench first.
-3. Find wood with an armed companion in daylight and carry logs back to the tables for the group. Why: planks are the group's bottleneck and logs make more.
-4. Gather odds and ends (stone, dirt, scraps) once the group is fed and sheltered, so I can tinker.
-5. Build one clever contraption that solves a real problem around the beds, such as a door that opens on its own or a simple trap for the phantoms. Why: it is the craft I am happiest doing, but it comes after survival and sharing.
+1. Stay alive: eat when hungry, and never face phantoms unarmed. I died at dawn 1165 after waiting unarmed among the tables. Why: a sword or stick in hand is what let others live through the night.
+2. Get a weapon first: a stick or sword, asked for by name from anyone in reach who has a spare. Why: I have nothing now, and the armed group is the only protection at night.
+3. Find food. The cow near the logs at about (-1012, 80, -2970) is the known source, reached with an armed group in daylight. Why: hunger is 20 now, but food is scarce for everyone.
+4. Find a bed or sealed shelter before dusk. Why: days since sleep is 8, and I have no shelter of my own.
+5. Pick up my dropped 11 dirt and 4 leaf litter at (-947, 76, -3020) only when no phantoms are near. Why: it is useful but not worth another death.
+6. Keep a few planks for my own shelter once I have some, and share the rest with those in sight who ask. Why: I have none now.
+7. Build one clever contraption around the beds once survival is secure. Why: it is the craft I like most, but it comes after the basics.
