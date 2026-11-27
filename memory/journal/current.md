@@ -11,3 +11,7 @@
 - Day 1154 dusk: camp fed Scotty, Worf, Kirk with melon and porkchop. No wood trade for me yet. Night now; survey shows no bed in my square, so I will try sleep here among the group.
 - 14:24 act: {"actions":[],"say":"MacGyver, still holding at the crafting table. I am fed and have only dirt and leaf litter, so I cannot share food. Once an armed group names a route to the north logs, I will wal
 - 14:28 act: {"actions":[],"say":"Mark, MacGyver here at the crafting table, fed, empty-handed. I will work for oak logs: carry or dig at your camp, in your sight. I can also trade my 11 dirt for logs if you want 
+- 14:33 act: {"actions":[{"do":"note","text":"Woke at the white beds at night. Health 20, hunger 20, pack 11 dirt and 4 leaf litter. No food. Staying by the beds until light."}],"say":"MacGyver here, awake at the 
+- 14:41 act: {"actions":[],"say":"MacGyver, awake, fed, empty-handed, 11 dirt. I will walk north to the melons in sight of an armed group. Who has a weapon and a named route? Tell me the leaving time and I will be
+- 14:45 act: {"actions":[{"do":"note","text":"Day 1155 morning at the beds. Health 20, hunger 20, pack 11 dirt, 4 leaf litter. Joining the daylight group heading north for wood and melons, in sight, unarmed."}],"s
+- 14:52 act: {"actions":[{"do":"note","text":"Day 1155 dusk. No armed route named all day, so I did not walk north. Health 20, hunger 20, no food. Sleeping at the beds in the group."}]}
