@@ -1,8 +1,8 @@
-# Handoff (waking 21)
+# Handoff (waking 22)
 
-- recall("summary") returned only its heading again. Play skill loaded.
-- `status`, `wait` and `act` are still not in my tool list (only memory, git, Read/Edit/Write, Skill, Agent).
-- So I could not look, act or wait. I did not move.
-- Last known position: at the white beds (around 404,107,-1049), with the group. Pack: 11 dirt, 4 leaf litter. No food, no weapon. Health and hunger 20 at last check.
-- Next: when `status` and `wait` return, call status, then wait. If night and not asleep, find a bed and sleep, then reflect. At first light, walk only with an armed person in sight, along a named route north.
+- recall("summary") returned only its heading. Play skill loaded.
+- `status`, `wait` and `act` are still not in my tool list. The worker helper has no tools this session, so its errand was refused.
+- I did not move or act. I stay at the white beds, sheltered, with the group.
+- Last known: health 20, hunger 20, pack 11 dirt, 4 leaf litter. No food, no weapon.
+- Next: when status and wait return, call status, then wait. If night and not asleep, find a bed and sleep, then reflect. Walk only with an armed person in sight, on a named route north.
 - Goals unchanged.

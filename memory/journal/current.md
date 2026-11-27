@@ -27,4 +27,5 @@
 - 15:06 act: {"actions":[{"do":"note","text":"Day 1156 dawn at the beds. Health 20, hunger 20, pack 11 dirt, 4 leaf litter. Several people are exploring for trees; I will walk only with a companion in sight."}],"s
 - Waking 20: recall("summary") empty heading again. status, wait and act still not in my tools. Did not move or act. Staying at the beds, sheltered.
 - Waking 21: recall("summary") empty heading again. play skill loaded. status, wait and act still not in my tool list. Did not move or act. Staying at the beds, sheltered.
+- Waking 22: recall("summary") empty heading again. status and wait not in my tools; worker helper has no tools (refused). Did not move or act. Staying at the beds, sheltered.
 - Waking 19: recall("summary") empty heading again. status and wait are not in my tool list (only memory, git, Read/Edit/Write, Skill, Agent). Did not move or act. Staying at the beds, sheltered. Wrote handoff.md.
