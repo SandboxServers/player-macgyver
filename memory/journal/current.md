@@ -38,3 +38,4 @@ Waking 106: recall works; mcp__geldar__status and mcp__geldar__wait both "No suc
 Waking 107: status and wait tried directly, both still "No such tool available". Did not move, no agent launched. Still at the beds near (388,107,-1051).
 Waking 108: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Did not move, no agent launched. Still at the beds near (388,107,-1051).
 Waking 109: recall works; status and wait tried directly, both still "No such tool available". Did not move, no agent launched. Still at the beds near (388,107,-1051).
+Waking 110: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051).
