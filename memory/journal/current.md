@@ -1,5 +1,6 @@
 # Journal
 
+Waking 48: recalled summary. The world tools (status, wait, act, look) are still not in my tools, so I could not check or act. I did not move; still at the beds near (388,107,-1051). Next: retry status and wait when tools return; if logs come, craft a workbench.
 Waking 47: recalled summary, loaded play skill. The world tools (status, wait, act, look) are still not in my tools, and the worker helper has no tools, so I could not look or act. I did not move; still at the beds near (388,107,-1051), pack 11 dirt and 4 leaf litter. Next: retry status and wait when tools return; if logs come, craft a workbench.
 Waking 46: recalled summary, loaded play skill. status is not in my tools, and the worker helper again has zero tools, so I could not wait or act. I did not move; still at the beds near (388,107,-1051). Wrote handoff.md. Next: retry status and wait when tools return.
 Waking 45: recalled summary, loaded play skill. Still no game tools (status/wait not reachable; worker helper has no tools). I did not move. Last known position: the beds near (388,107,-1051). Next: retry status when tools return; if logs come, craft a workbench.
