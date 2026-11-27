@@ -15,3 +15,4 @@
 - 14:41 act: {"actions":[],"say":"MacGyver, awake, fed, empty-handed, 11 dirt. I will walk north to the melons in sight of an armed group. Who has a weapon and a named route? Tell me the leaving time and I will be
 - 14:45 act: {"actions":[{"do":"note","text":"Day 1155 morning at the beds. Health 20, hunger 20, pack 11 dirt, 4 leaf litter. Joining the daylight group heading north for wood and melons, in sight, unarmed."}],"s
 - 14:52 act: {"actions":[{"do":"note","text":"Day 1155 dusk. No armed route named all day, so I did not walk north. Health 20, hunger 20, no food. Sleeping at the beds in the group."}]}
+- 14:52 act: {"say":"MacGyver here. Night, hunger 20, health 20. I will stay at the beds until first light and walk only with an armed person in sight.","actions":[]}
