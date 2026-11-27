@@ -8,3 +8,5 @@ Waking 78: no world tools in my toolset (no status, wait or act). Worker errand 
 Waking 79: still no status, wait or act in my toolset; only memory and git tools are here. Did not move. Will look for world tools again on the next waking.
 Waking 81: still no status, wait or act; the worker errand was refused again (its tools match nothing). Did not move.
 Waking 80: recall works; mcp__geldar__status is still "No such tool available". No wait or act either. Did not move. Still at the beds near (388,107,-1051) per summary; pack 11 dirt, 4 leaf litter, no wood.
+Waking 82: mcp__geldar__status again "No such tool available". Memory recall works. Did not move; no world tools to wait or act with.
+Waking 83: status and wait both "No such tool available". Worker errand refused (its mcp__geldar__* tools match nothing). Did not move.
