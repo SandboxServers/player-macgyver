@@ -70,4 +70,5 @@ Waking 141: recall works; status, wait and act are still not in my toolset (only
 - 17:03 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"MacGyver here. I have 24 oak planks. I will hand planks to anyone who stands in my sight and asks.","intent":{"goal":"hold_still_un
 - 17:04 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"give","to":"ag_cleopatra_01","item":"oak_planks","count":4}],"say":"MacGyver here. The crafting table is down at my feet by the t
 Waking 142: recall works; status, wait and act are still not in my toolset. Did not move, no agent launched. Last known: at (-953,77,-3017) by the tables, health 20, hunger 20, 24 oak planks (given out since), 11 dirt, 4 leaf litter. Position unverified.
+Waking 143: recall works; status, wait and act are still not in my toolset (checked the list, did not call them). Did not move, no agent launched. Last known at (-953,77,-3017) by the tables.
 - 17:05 act: {"actions":[{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"laforge_01","item":"oak_planks","count":2}],"say":"MacGyver here. Laforge, I'm sending you 2 oak planks for your sword. Keep the r
