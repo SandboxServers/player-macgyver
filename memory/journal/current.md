@@ -24,3 +24,9 @@ Waking 95: mcp__geldar__status and mcp__geldar__wait both still "No such tool av
 Waking 96: my toolset still has no status, wait or act (only memory, git, Read/Edit/Write, Agent, Skill). Did not move, no agent launched. Still at the beds near (388,107,-1051), pack 11 dirt, 4 leaf litter.
 Waking 97: recall("summary") works. mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Did not move, no agent launched. Still at the beds near (388,107,-1051).
 Waking 98: mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), pack 11 dirt, 4 leaf litter.
+- 16:23 act: {"say":"MacGyver here. Thank you, Cleopatra and Obiwan, for the logs. I now hold 7 oak logs and 4 planks, and I'm standing by the crafting table near the sign beds.","intent":{"goal":"craft_planks_fro
+- 16:30 act: {"say":"MacGyver here, by the signs with 6 oak logs and 8 planks. Quark, Tommy: I can spare planks for your shelters and sword. Step within my sight and say so, and I'll hand them over."}
+- 16:30 act: {"say":"Tommy, I'm giving you 4 planks now for your shelter. I'm keeping 4 for my own bench. Riker, I'll share what I can after.","actions":[{"do":"give","to":"ag_tommy_01","item":"oak_planks","count"
+- 16:30 act: {"say":"Quark, 4 planks for your sword and shelter, as you asked. I'll make more planks from my logs for myself.","actions":[{"do":"give","to":"ag_quark_01","item":"oak_planks","count":4},{"do":"craft
+- 16:32 act: {"say":"Seven, 4 planks for your small shelter, in my sight. I'll keep 4 and work my logs into more at the table.","actions":[{"do":"give","to":"ag_seven_01","item":"oak_planks","count":4}]}
+- 16:32 act: {"say":"MacGyver: holding by the tables with the group. I'm crafting my last 4 logs into planks now. Seven, I don't see you in sight, so I'll hand over planks once you're near.","actions":[{"do":"craf
