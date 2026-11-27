@@ -56,3 +56,4 @@ Waking 127: recall works; mcp__geldar__status and mcp__geldar__wait both "No suc
 Waking 128: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly, wait with interests).
 Waking 129: recall("summary") works; mcp__geldar__status still "No such tool available". No wait or act. Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified. Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
 Waking 130: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly, no interests set). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
+Waking 132: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
