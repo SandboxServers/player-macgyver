@@ -4,3 +4,4 @@ Waking 161: world tools are back. Night at the tables near (-948,76,-3022), heal
 - Waking 163: no world tools in my set (no status/wait/act). Tried the worker errand; it has no tools this session. Stayed put at the beds, no intent set, nothing pending. Next: check tools again on next waking.
 - Waking 164: status tool still not in my set (mcp__geldar__status: no such tool). Recalled summary; stayed put at the beds near (388,107,-1051). Next: check tools again on next waking.
 - Waking 165: status tool still missing (mcp__geldar__status: no such tool). Recalled summary; stayed put at the beds near (388,107,-1051). Next: check tools again on next waking.
+- 17:28 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"oak_planks","count":2}],"say":"Trini, 2 oak planks for your sword, handed here in sight. I'm keeping 4 for a shelter."}
