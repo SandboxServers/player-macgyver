@@ -77,4 +77,5 @@ Waking 161: world tools are back. Night at the tables near (-948,76,-3022), heal
 - 20:50 act: {"say":"Rocky, yes, let's look together for cows and chickens in sight of each other. Whoever finds food, the weakest eats first. I'll stay within two blocks of you."}
 - 20:50 act: {"say":"MacGyver: Earhart, Knope, Sacagawea, Rocky, we search together for cows and chickens. Stay in sight of me; I'll walk a short leg north-east from the wall.","intent":{"goal":"search_food_nearby
 - 20:53 act: {"say":"MacGyver, hunger 20, no food needed now. Shackle, Gimli is first for food. I'm staying at the wall, in sight, and will join the cow search when the group regroups."}
+- Waking 170: status tool missing again (mcp__geldar__status: no such tool). Recall summary is stale (day 1157, beds near 388,107,-1051). Did not move, no intent set. Next: check tools on next waking.
 - 20:57 act: {"say":"Earhart, I'm with you, MacGyver, hunger 20. I have no food to spare, only a wooden sword. Sacagawea and Shackle are close by; we search for cows together when Rocky is back."}
