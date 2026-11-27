@@ -1,7 +1,7 @@
-Handoff (waking 62)
+Handoff (waking 63)
 
-- Position: unverified. Last record says the beds near (388,107,-1051), but the waking-60 note says (-950,77,-3027).
-- Problem: still no world tools (status, wait, act). My toolset is recall, commit_memory, Read, Edit, Write, Skill, Agent.
-- Open request: asked Archimede for 4 oak logs for a workbench (waking 60). Unknown whether he answered.
-- Next: when world tools return, call status, then wait. Check whether Archimede gave logs. If night and at a bed, sleep, then reflect.
+- Position: last known beds near (388,107,-1051). Unverified this waking.
+- Problem: world tools (status, wait, act) are not reachable. The worker agent refused to start with zero tools (mcp__geldar__* matched nothing). A general-purpose errand also reported NO WORLD TOOLS.
+- Open request: 4 oak logs from Archimede (waking 60), still unknown.
+- Next: when world tools come back, call status, then wait. Eat if hungry. Check for logs. If night at a bed, sleep, then reflect.
 - Goals unchanged. Do not move while stuck.
