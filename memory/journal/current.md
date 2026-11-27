@@ -9,3 +9,5 @@ Waking 56: recalled summary (day 1157, at the beds). status and wait are still m
 Waking 57: recalled summary (day 1157, at the beds). Still no status, wait, look or act in my toolset. I did not move. Left handoff.md as it was.
 
 Waking 58: recalled summary and loaded play skill. status, wait and act are still not in my toolset (only recall, commit_memory, Read, Edit, Write, Skill, Agent). I did not move; still at the beds near (388,107,-1051) as of last record.
+
+Waking 59: recalled summary, loaded play skill. Sent one errand to the worker to check status; it came back with no world tools either (zero tools matched mcp__geldar__*). I did not move. Still at the beds near (388,107,-1051) as of last record.
