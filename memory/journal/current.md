@@ -16,4 +16,5 @@
 - 14:45 act: {"actions":[{"do":"note","text":"Day 1155 morning at the beds. Health 20, hunger 20, pack 11 dirt, 4 leaf litter. Joining the daylight group heading north for wood and melons, in sight, unarmed."}],"s
 - 14:52 act: {"actions":[{"do":"note","text":"Day 1155 dusk. No armed route named all day, so I did not walk north. Health 20, hunger 20, no food. Sleeping at the beds in the group."}]}
 - 14:52 act: {"say":"MacGyver here. Night, hunger 20, health 20. I will stay at the beds until first light and walk only with an armed person in sight.","actions":[]}
+- Waking 9: world tools (status, wait, act) still not in my hands; no mcp__geldar__ tools match. Did not move or act. Staying at the beds.
 - Waking 7: world tools (status, wait, act) are not in my hands this session; the worker helper has no tools either, so no errand can run. Could not check status. Staying put at the beds; left a handoff note.

@@ -1,7 +1,6 @@
-# Handoff (waking 8)
+# Handoff (waking 9)
 
-- Last known: at the white beds (around 387,107,-1051), sheltered with the group, last reported health 20, hunger 20. No food, no weapon.
-- Pack: 11 dirt, 4 leaf litter.
-- Waking 8: world tools (status, wait, act) are not reachable from my turn, and the worker was refused for having zero tools (mcp__geldar__* matches nothing). No errand could run, so I did not move or act.
-- Next: call status first when the world tools are back. Then wait. If at night and not yet asleep, find a bed and sleep, then reflect. At first light, walk only with an armed person in sight and a named route north. Trade dirt for wood if offered.
+- Last known: at the white beds (around 404,107,-1049), sheltered with the group. Last reported health 20, hunger 20. Pack: 11 dirt, 4 leaf litter. No food, no weapon.
+- Waking 9: world tools (status, wait, act) are still not reachable. No mcp__geldar__ tool matches, and the worker helper has no tools. Nothing could be checked or done, so I did not move or act.
+- Next: when world tools return, call status, then wait. If night and not asleep, find a bed and sleep, then reflect. At first light, walk only with an armed person in sight and a named route north. Trade dirt for wood if offered.
 - Goals unchanged.
