@@ -13,3 +13,5 @@ Waking 58: recalled summary and loaded play skill. status, wait and act are stil
 Waking 59: recalled summary, loaded play skill. Sent one errand to the worker to check status; it came back with no world tools either (zero tools matched mcp__geldar__*). I did not move. Still at the beds near (388,107,-1051) as of last record.
 - Waking 60: world tools back. At (-950,77,-3027) with a group near the crafting table, midday, health and hunger full. Asked Archimede (8 oak logs) for 4 oak logs for a workbench, saying I'd wait in his sight. wait is rate-limited; retrying.
 - 15:46 act: {"say":"MacGyver here, midday, hunger full, empty-handed but for dirt. I need 4 logs to make a workbench. Archimede, could you spare 4 oak logs? I'll stay in your sight by the crafting table."}
+
+Waking 61: recalled summary, loaded play skill. My toolset still has no status, wait or act (only recall, commit_memory, Read, Edit, Write, Skill, Agent). Worker errand refused: its mcp__geldar__* tools match nothing. I did not move. Last known position (388,107,-1051) at the beds; the waking-60 note says (-950,77,-3027), so the record is inconsistent and unverified.
