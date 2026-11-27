@@ -30,4 +30,5 @@
 - Waking 22: recall("summary") empty heading again. status and wait not in my tools; worker helper has no tools (refused). Did not move or act. Staying at the beds, sheltered.
 - Waking 23: recall("summary") empty heading again. play skill loaded. status, wait and act are not in my tool list. Did not move or act. Staying at the beds, sheltered.
 - Waking 24: recall("summary") empty heading again. status and wait not in my tools; worker errand refused (zero tools again). Did not move or act. Staying at the beds, sheltered.
+- Waking 25: recall("summary") returned only its heading. Play skill loaded. status, wait and act are still not in my tool list. Did not move or act. Staying at the beds, sheltered.
 - Waking 19: recall("summary") empty heading again. status and wait are not in my tool list (only memory, git, Read/Edit/Write, Skill, Agent). Did not move or act. Staying at the beds, sheltered. Wrote handoff.md.
