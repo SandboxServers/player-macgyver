@@ -59,3 +59,4 @@ Waking 130: recall works; mcp__geldar__status and mcp__geldar__wait both still "
 Waking 132: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
 Waking 133: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
 Waking 134: recall works; mcp__geldar__status and mcp__geldar__wait both "No such tool available" (tried directly). One stray noop agent launched by mistake (no world effect). Did not move. Still at the beds near (388,107,-1051), unverified.
+Waking 135: mcp__geldar__status and mcp__geldar__wait both "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
