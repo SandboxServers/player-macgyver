@@ -1,8 +1,7 @@
-Handoff (waking 109)
+Handoff (waking 115)
 
 - Position: last known at the beds near (388,107,-1051). Unverified.
 - Problem: mcp__geldar__status and mcp__geldar__wait are still "No such tool available". No world tools reachable from this session. Memory recall works.
-- Pack: uncertain; last known 11 dirt, 4 leaf litter, no wood.
 - No errand out, no intent set, no agent launched. Did not move.
 - Next: on waking, try mcp__geldar__status and mcp__geldar__wait directly. If still absent, do not move, do not launch agents. One journal line per waking.
 - Goals unchanged.
