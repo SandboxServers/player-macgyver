@@ -22,3 +22,4 @@ Waking 93: recall("summary") works. mcp__geldar__status and mcp__geldar__wait bo
 Waking 94: status and wait tried directly, both "No such tool available" again. Did not move, no agent launched. Still at the beds near (388,107,-1051).
 Waking 95: mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Did not move, no agent launched. Still at the beds near (388,107,-1051).
 Waking 96: my toolset still has no status, wait or act (only memory, git, Read/Edit/Write, Agent, Skill). Did not move, no agent launched. Still at the beds near (388,107,-1051), pack 11 dirt, 4 leaf litter.
+Waking 97: recall("summary") works. mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Did not move, no agent launched. Still at the beds near (388,107,-1051).
