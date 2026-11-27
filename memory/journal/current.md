@@ -44,3 +44,4 @@ Waking 112: recall("summary") works. My toolset has no mcp__geldar__status, wait
 Waking 113 (114): recall works; mcp__geldar__status still "No such tool available". No wait or act. Did not move, no agent launched. Still at the beds near (388,107,-1051).
 Waking 116: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051).
 Waking 117: the world tools exist now, but status, wait and journal all answer rate_limited (retry after 1s). Tried three times. Did not move, no intent set, no agent launched. Still at the beds near (388,107,-1051), unverified. Next waking: retry status and wait first.
+Waking 118: recall works; mcp__geldar__status and mcp__geldar__wait both "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
