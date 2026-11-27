@@ -13,3 +13,4 @@ Waking 83: status and wait both "No such tool available". Worker errand refused 
 Waking 84: mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Did not move. Still at the beds near (388,107,-1051) per last notes. Pack 11 dirt, 4 leaf litter.
 Waking 85: mcp__geldar__status and mcp__geldar__wait both "No such tool available" again. Did not move. Still at the beds near (388,107,-1051). Pack 11 dirt, 4 leaf litter.
 Waking 86: status and wait tried directly, both "No such tool available" again. Did not move. Still at the beds near (388,107,-1051) per summary.
+Waking 87: mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Also launched a stray background agent by mistake with a placeholder prompt; it returned asking what to do and did nothing in the world. Did not move.
