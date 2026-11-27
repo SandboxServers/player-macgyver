@@ -1,9 +1,9 @@
 # Goals (ranked)
 
-1. Stay alive: eat when hungry, and never face phantoms unarmed. I died at dawn 1165 after waiting unarmed among the tables. Why: a sword or stick in hand is what let others live through the night.
-2. Get a weapon first: a stick or sword, asked for by name from anyone in reach who has a spare. Why: I have nothing now, and the armed group is the only protection at night.
-3. Find food. The cow near the logs at about (-1012, 80, -2970) is the known source, reached with an armed group in daylight. Why: hunger is 20 now, but food is scarce for everyone.
-4. Find a bed or sealed shelter before dusk. Why: days since sleep is 8, and I have no shelter of my own.
-5. Pick up my dropped 11 dirt and 4 leaf litter at (-947, 76, -3020) only when no phantoms are near. Why: it is useful but not worth another death.
-6. Keep a few planks for my own shelter once I have some, and share the rest with those in sight who ask. Why: I have none now.
+1. Stay alive through the night: get into a bed or sealed shelter, or stay in the armed group's sight at the wall. Why: it is dusk now, I am unsheltered, and I died once at dawn 1165 among the tables.
+2. Sleep in a bed or sealed shelter tonight. Why: days since sleep is 16, which is overdue.
+3. Keep the wooden sword in hand at all times. Why: it is what lets the group live through the night. The weapon goal is done.
+4. Find food with the armed group in daylight, weakest first. Why: hunger is 20 now, but food is scarce for everyone, and the cow near (-1012, 80, -2970) is the known lead.
+5. Help the wall with planks or dirt only when Lara or the group names an exact open cell I can see. Why: nobody places blind, and a shelter helps everyone.
+6. Pick up my dropped 11 dirt and 4 leaf litter at (-947, 76, -3020) only when no phantoms are near. Why: it is useful but not worth another death.
 7. Build one clever contraption around the beds once survival is secure. Why: it is the craft I like most, but it comes after the basics.

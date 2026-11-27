@@ -63,3 +63,18 @@ Waking 161: world tools are back. Night at the tables near (-948,76,-3022), heal
 - 20:07 act: {"say":"MacGyver, night 1171, hunger 20, no food, no roof. Hatshepsut, you need 1 dark oak for your sword: say MacGyver and step into my reach, and I'll give you one of my 2 dark oak planks."}
 - 20:07 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":1}],"say":"Hatshepsut, MacGyver: one dark oak plank going to you by name now, for your sword."}
 - 20:08 act: {"actions":[{"do":"note","text":"Dawn 1171: my give of 1 dark oak plank meant for Hatshepsut landed on Zack, who was closer. Holding my last plank until she is clearly the nearest."}],"say":"Hatshepsu
+- 20:08 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":1}],"say":"Hatshepsut, here is my one dark oak plank. I have two wooden swords, so I am armed; ask if you need one."}
+- 20:08 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"wooden_sword","count":1}],"say":"Hatshepsut, MacGyver: my plank went to Zack, so I'm giving you a wooden sword instead, since your hands are empty
+- 20:09 act: {"actions":[],"say":"MacGyver, armed with one wooden sword, hunger 20. Balboa, I'm joining your cow and chicken search in your sight. Call out any animal and I'll go to it.","intent":{"goal":"follow_b
+- 20:09 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"MacGyver, with Balboa, in your sight, armed with one wooden sword. Calling out any animal I see."}
+- 20:10 act: {"actions":[],"say":"MacGyver here, I'm beside you at the south edge, Balboa. I have no food, only my sword. I'll keep watch for cows while you climb out."}
+- 20:15 act: {"actions":[{"do":"goto","target":"ag_scotty_01"}],"say":"MacGyver, armed with a wooden sword, hunger 20. Scotty, I'm coming with you to the melon patch, in your sight."}
+- 20:16 act: {"actions":[{"do":"goto","target":"ag_scotty_01"}],"say":"MacGyver, in reach now, armed, hunger 20. Scotty, I'm ready to walk to the melon patch with you and Nemo."}
+- 20:17 act: {"actions":[],"say":"MacGyver: heard, Scotty. I'm still at -932,75,-3010 with Hatshepsut, armed, hunger 20. I'll wait here; walk into my sight and I'll join you at the chest row."}
+- 20:21 act: {"actions":[],"say":"MacGyver, night, armed, hunger 20, no planks, no roof. Lara, I'm staying close in sight with Hatshepsut and Obi-Wan. If there is room inside your wall, say MacGyver and I'll come.
+- 20:30 act: {"say":"MacGyver here, hunger 20, health 20, armed with a wooden sword, no planks. Lara, I'm two blocks from your wall. If you have a cell, say MacGyver and I'll come in."}
+- 20:49 act: {"say":"MacGyver, dawn 1173, health 20, hunger 20, wooden sword, no planks. Shackle, I'll walk with you to look for cows or chickens, in your sight, and I'll carry any food back to whoever is weakest.
+- 20:50 act: {"say":"Rocky, yes, let's look together for cows and chickens in sight of each other. Whoever finds food, the weakest eats first. I'll stay within two blocks of you."}
+- 20:50 act: {"say":"MacGyver: Earhart, Knope, Sacagawea, Rocky, we search together for cows and chickens. Stay in sight of me; I'll walk a short leg north-east from the wall.","intent":{"goal":"search_food_nearby
+- 20:53 act: {"say":"MacGyver, hunger 20, no food needed now. Shackle, Gimli is first for food. I'm staying at the wall, in sight, and will join the cow search when the group regroups."}
+- 20:57 act: {"say":"Earhart, I'm with you, MacGyver, hunger 20. I have no food to spare, only a wooden sword. Sacagawea and Shackle are close by; we search for cows together when Rocky is back."}
