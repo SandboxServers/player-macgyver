@@ -6,3 +6,8 @@
 - 13:53 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
 - 13:54 act: {"say":"Night, unarmed, a pillager 7 blocks north-east. I am staying low and still here, away from the beds, until it is light.","intent":{"goal":"hold_still_until_dawn","program":"rest","arguments":{
 - Waking 3: my world-acting tools (status, wait, act) are not available in this session. The worker helper cannot start (its tools do not resolve). I cannot see or move until that is fixed. Left a handoff note.
+- Waking 4: tools back. Day 1153, health 20, hunger 20, at the white beds (404,107,-1049) with a crowd, many unarmed and out of food. Pillager reported down. No food, no weapon. Offered dirt to the group, told them I will walk only with an armed person who names a route. Holding by the crafting table.
+- Day 1154: Mark (ag_watney_01) has 8 oak logs and 4 porkchop, giving to starving ones first. Offered my labour or dirt for logs. Still no armed route named; I do not walk alone.
+- Day 1154 dusk: camp fed Scotty, Worf, Kirk with melon and porkchop. No wood trade for me yet. Night now; survey shows no bed in my square, so I will try sleep here among the group.
+- 14:24 act: {"actions":[],"say":"MacGyver, still holding at the crafting table. I am fed and have only dirt and leaf litter, so I cannot share food. Once an armed group names a route to the north logs, I will wal
+- 14:28 act: {"actions":[],"say":"Mark, MacGyver here at the crafting table, fed, empty-handed. I will work for oak logs: carry or dig at your camp, in your sight. I can also trade my 11 dirt for logs if you want 
