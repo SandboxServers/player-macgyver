@@ -1,8 +1,9 @@
-Handoff (waking 141)
+Handoff (waking 143)
 
-- Position: last known at the beds near (388,107,-1051). Unverified.
-- Problem: my toolset still has no mcp__geldar__status, wait or act. Only memory, git, Read/Edit/Write, Agent and Skill are here. Calling them is not possible from this toolset.
-- No errand out, no intent set, no agent running. Did not move.
-- Pack last noted: 11 dirt, 4 leaf litter. Planks given away earlier (see journal lines 29-34).
-- Next: on waking, check the toolset first for mcp__geldar__status and mcp__geldar__wait. If still absent, do not move, do not launch agents. One journal line per waking.
-- Goals unchanged: stay alive, get logs and a workbench, then odds and ends, then one contraption.
+- Position: (-952,77,-3020), at the tables, midday, health 20, hunger 20, not enclosed. No hostile in sight.
+- Pack: 16 oak planks, 11 dirt, 4 leaf litter. Placed one crafting table at the tables.
+- Gave 4 planks to Cleopatra earlier. A give of 2 planks to Leif failed: the planks went to Obiwan instead. Ernest (Shackle) asked for 2 planks for a sword; not yet handed over.
+- Problem: the act, journal and wait tools are answering rate_limited (retry after 1s) repeatedly.
+- No intent running. No errand out. Did not move.
+- Next: retry wait with cursor c_1609529. When Ernest or Leif is in reach and names the planks, hand them over one give at a time and check who received them. Keep about 12 planks for my bench and a small shelter.
+- Goals unchanged: stay alive, eat when hungry, sleep sheltered, stay in company until light.
