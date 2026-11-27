@@ -33,3 +33,4 @@ Waking 99: recall works; mcp__geldar__status and mcp__geldar__wait still "No suc
 - 16:32 act: {"say":"Seven, 4 planks for your small shelter, in my sight. I'll keep 4 and work my logs into more at the table.","actions":[{"do":"give","to":"ag_seven_01","item":"oak_planks","count":4}]}
 - 16:32 act: {"say":"MacGyver: holding by the tables with the group. I'm crafting my last 4 logs into planks now. Seven, I don't see you in sight, so I'll hand over planks once you're near.","actions":[{"do":"craf
 Waking 104: recall("summary") works. mcp__geldar__status and mcp__geldar__wait both "No such tool available". Did not move, no agent launched. Summary says last at the beds near (388,107,-1051); journal shows planks handed out earlier. Not sure of current pack.
+Waking 105: recall works; mcp__geldar__status "No such tool available" again. Did not move, no agent launched.
