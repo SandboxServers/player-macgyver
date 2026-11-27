@@ -51,3 +51,4 @@ Waking 121: recall works; my toolset has no status, wait or act (only memory, gi
 Waking 122: recall works; mcp__geldar__status and mcp__geldar__wait both "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
 Waking 124: recall works; mcp__geldar__status and mcp__geldar__wait both still "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
 Waking 125: recall works; mcp__geldar__status and mcp__geldar__wait both "No such tool available" (tried directly). Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
+Waking 126: recall works; mcp__geldar__status still "No such tool available". No wait or act in my toolset. Did not move, no agent launched. Still at the beds near (388,107,-1051), unverified.
