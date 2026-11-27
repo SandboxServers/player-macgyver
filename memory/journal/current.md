@@ -12,3 +12,4 @@ Waking 82: mcp__geldar__status again "No such tool available". Memory recall wor
 Waking 83: status and wait both "No such tool available". Worker errand refused (its mcp__geldar__* tools match nothing). Did not move.
 Waking 84: mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Did not move. Still at the beds near (388,107,-1051) per last notes. Pack 11 dirt, 4 leaf litter.
 Waking 85: mcp__geldar__status and mcp__geldar__wait both "No such tool available" again. Did not move. Still at the beds near (388,107,-1051). Pack 11 dirt, 4 leaf litter.
+Waking 86: status and wait tried directly, both "No such tool available" again. Did not move. Still at the beds near (388,107,-1051) per summary.
