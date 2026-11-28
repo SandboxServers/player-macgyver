@@ -87,3 +87,6 @@
 - 06:17 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-984,"y":78,"z":-2984}}]}
 - 06:17 say: {"text":"Troi, my dirt keeps failing at the gap, the spot is occupied. Can you see which block is blocking it from your side?"}
 - 06:21 act: {"actions":[],"say":"Troi, my view says the gap is down and to my right, the south-east side. I'm staying still until I can see it clearly."}
+- 06:55 act: {"say":"Night has come. I am still on the rim, not sealed. Troi is back in his pit. I will hold here and keep the sword ready.","intent":{"goal":"hold_rim_till_day","program":"rest","arguments":{},"wa
+- 06:57 say: {"text":"Troi, morning. I held the rim through the night and am unhurt. The gap is down and to my right, past the grass and dirt. I will look again in the light."}
+- 07:07 say: {"text":"Dusk again. I am still on the rim, not sealed, with the sword in hand. Anyone nearby, I would welcome company through the night."}
