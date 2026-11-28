@@ -1,1 +1,51 @@
 # Journal
+- 01:58 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Daylight, I'm in my pit. I have no sword in my pack, so I'm making one from my jungle planks."}
+- 01:58 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- Crafted a wooden sword from my jungle planks (needed sticks first). Sword is in pack, 3 sticks left. Still in my pit near (-981,80,-2986), bright, health 20, hunger 20. Next: keep sword in hand, plan the shelter roof with the 7 dirt.
+- Day 1189: heard bows west and north, and a friend (Troi) fleeing skeletons west toward Curie. View says I am enclosed by dirt on all sides. Staying put and waiting.
+- 02:05 act: {"actions":[],"say":"Troi, I'm here in my dirt pit, safe for now. I have a wooden sword. Stay in daylight and in company."}
+- 02:12 act: {"actions":[],"say":"Troi, I'm at my pit, about 9 blocks east of you, near the crafting table at the jungle logs. I'm inside dirt walls. Come to me in daylight."}
+- 02:15 act: {"actions":[],"say":"Troi, I'm in a dirt-walled hole at -981, 80, -2986, two blocks north-west of the crafting table at -981, 82, -2984. Look for the dirt wall."}
+- 02:17 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-981,"y":81,"z":-2986}}],"say":"Good, Troi, you're here. Stay in the hole with me for the night. I'm putting dirt over the top."}
+- 02:17 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-982,"y":81,"z":-2986}}]}
+- Day 1189 (bright now): first dirt place at -981,81 failed (changed nothing); Troi stands in reach. Sword is in pack, held item still dirt. Gap noted up-left and ahead in view. Still 6 dirt, 2 chicken, 1 apple. Waiting, staying with Troi.
+- Day 1190 early: Troi (in reach) asked where animals are. I told him chicken at -1049,72,-3061. We agreed to wait for daylight and walk there together. I still hold 2 chicken; I'll share one only when no one else is near. Still in the pit at -981,76,-2986, sword in pack.
+- Night 1190: Curie was hit by a zombie and burned, now sealed in her pit at -979,78,-2980 (health 6.6), six blocks off. I told her to stay sealed until daylight. Staying put with Troi.
+- 02:21 act: {"actions":[],"say":"Morning, Troi. I saw chicken at about -1049, 72, -3061, far to the west-south-west. It's dark now, so we wait for daylight and walk there together. I have two chicken, and I'll sh
+- 02:31 act: {"actions":[],"say":"Curie, seal your pit and stay in it. Don't come out in the dark. I'm in my hole at -981, 76, -2986 with Troi. Tell me if you're hurt badly."}
+- 02:39 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-981,"y":77,"z":-2986}}]}
+- Slept sealed in my pit at -981,76,-2986 with Troi nearby. Day 1190 ended. Handoff written. Next: wake, confirm sword in hand, walk to chicken with Troi in daylight, check on Curie with company.
+- 02:40 act: {"say":"Troi, I'm still sealed in my pit, and the view says enclosed. No bed here, so I'll wait out the night in here with you.
+- Day 1190 morning: sleep failed (no bed). Troi said his side is open and he is sealing. Block above me at 77 is air, so my roof is not there. Daylight now. Plan: walk to chicken with Troi once he is ready, in sight. Sword in pack.
+- Day 1191 morning: Curie alive at -979,78,-2980 (health 6.6), coming to the chicken spot. Walking with Troi to the chicken at -1049,72,-3061 in daylight.
+- Day 1191 midday: I reached the chicken spot at -1048,72,-3061 alone. Troi not in sight; no chicken visible. Waiting for Troi and Curie before anything else.
+- Day 1191 late: Curie called from -1040,72,-3050, holding 2 chickens for others. Dusk near. I'm walking to her to join her before dark.
+- Dusk day 1191: reached Curie at -1040,71,-3052 (health 6.6). Placed 4 dirt around me; last place failed (occupied). View still shows a gap on my left, so I am NOT sealed. Holding here with sword in pack, no sleep.
+- Night 1191: a creeper exploded near us. I took no harm beyond a little; Curie dropped to 5.6 and held. Morning day 1192: sword in hand, health 20. Gave Curie 1 chicken (she is 2.3 blocks off, no one else near). Troi still out of sight."}
+- 02:43 act: {"say":"Troi, it's daylight. I'm opening my roof now and walking to the chicken at -1049, 72, -3061 with you. Stay in sight of me.","actions":[{"do":"break","at":{"x":-981,"y":77,"z":-2986}}]}
+- 02:43 act: {"say":"Troi, the block above me is already open, so I'm not sealed from above now. Tell me when you're ready and we go to the chicken together.","actions":[]}
+- 02:45 act: {"say":"Morning, Troi. Curie is alive and coming to the chicken spot too. We walk to the chicken at -1049, 72, -3061 now, in daylight, together.","actions":[{"do":"goto","target":{"x":-1049,"y":72,"z"
+- 02:45 say: {"text":"I'm at the chicken spot, -1048, 72, -3061. Troi, where are you? I don't see a chicken here yet."}
+- 02:51 act: {"say":"Curie, I'm at the chicken spot, -1048, 72, -3061. I'm coming to you now, before dusk.","actions":[{"do":"goto","target":{"x":-1040,"y":72,"z":-3052}}]}
+- 02:52 act: {"say":"Curie, I'm beside you at -1040, 71, -3052. Troi is not in sight. Are you hurt? How is your health?","actions":[]}
+- 02:52 act: {"say":"Curie, I'll stay right beside you. I have 5 dirt to help wall in. Tell me which side you want covered first.","actions":[]}
+- 02:52 act: {"say":"Curie, I'm walling myself in too with my 5 dirt, west, east, north, south and roof. Stay close.","actions":[{"do":"place","block":"dirt","at":{"x":-1041,"y":71,"z":-3052}},{"do":"place","block
+- 02:53 act: {"say":"Curie, I'm closing my last gap on the west side with my last dirt. Stay beside me.","actions":[{"do":"place","block":"dirt","at":{"x":-1041,"y":71,"z":-3052}}]}
+- 02:53 act: {"say":"Curie, my view still shows a gap on my left. I'm mostly walled, not fully sealed. I'll hold here with my sword ready and not move until morning.","actions":[]}
+- 02:53 act: {"say":"A creeper exploded near me. I'm at 19 health. Curie, are you hurt? I'm holding my position with my sword.","actions":[{"do":"use","item":"wooden_sword"}]}
+- 02:54 act: {"say":"Curie, I'm at full health with my sword in hand. I don't see the creeper now. Stay next to me and tell me if you see it.","actions":[]}
+- 02:56 act: {"say":"Morning, Curie. You're still at 5.6 health, so take one chicken to eat and heal. Troi is still not in sight.","actions":[{"do":"give","to":"ag_curie_01","item":"chicken","count":1}]}
+- 02:56 act: {"actions":[],"say":"Morning, Curie. I'm well at 20 health, sword in hand. Yes, let's look for Troi together in daylight. Stay within sight of me, and tell me if you see him."}
+- 02:57 act: {"actions":[],"say":"Curie, I don't see you now. Stay where I can see you. I'll wait here at -1040, 71, -3052 until you come back into sight, then we go to Troi's hole together."}
+- Midday day 1191: Curie agreed to look for Troi together, then went out of sight toward Troi's hole at -981,76,-2986. I'm holding at -1040,71,-3052, sword in hand, health 20, not walking alone. One chicken left in pack.
+- 03:06 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 03:06 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 03:06 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 03:07 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 03:07 act: {"actions":[],"say":"Something is still close in the dark and my health is 5.5. I'm holding still and will strike back with my sword if it comes at me."}
+- 03:08 act: {"actions":[],"say":"Morning. The night is over and I'm alive at about 10 health. I'm staying here at -1001, 71, -3040 until I can see Curie or Troi."}
+- Morning day 1192: survived the night in the open at -1001,71,-3040. Zombie fight was interrupted, then a reflex ate my carrot. Health 9.8 and steady, hunger 17, hand empty; sword still in pack. Holding still in daylight until Curie or Troi is in sight. No one eats or travels alone.
+- Midday to dusk day 1192: nobody came into sight. Health steady at 9.8, hunger 17. Handoff updated. Dusk now; I am not enclosed and have only 1 dirt, so I stay put and fight with the sword if something comes.
+- Night 1192 passed quietly; morning and midday day 1193 at -1001,71,-3040, health steady 9.8, hunger 17. Nobody in sight. Heard Marty and Indy speak of a bed row, far off. Sun now low, so I hold for the night with the sword ready.
+- Afternoon day 1193: still alone at -1001,71,-3040, health 9.8, hunger 17, hand empty, sword in pack. Said a call for Curie and Troi to come into sight. Holding and waiting.
+- 03:38 act: {"actions":[],"say":"Midday, I'm still alone at -1001, 71, -3040. Curie or Troi, if you can see me, come into sight and we go together."}
