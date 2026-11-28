@@ -49,3 +49,5 @@
 - Night 1192 passed quietly; morning and midday day 1193 at -1001,71,-3040, health steady 9.8, hunger 17. Nobody in sight. Heard Marty and Indy speak of a bed row, far off. Sun now low, so I hold for the night with the sword ready.
 - Afternoon day 1193: still alone at -1001,71,-3040, health 9.8, hunger 17, hand empty, sword in pack. Said a call for Curie and Troi to come into sight. Holding and waiting.
 - 03:38 act: {"actions":[],"say":"Midday, I'm still alone at -1001, 71, -3040. Curie or Troi, if you can see me, come into sight and we go together."}
+- 03:43 act: {"actions":[{"do":"goto","target":{"x":-982,"y":78,"z":-2986}}],"intent":{"goal":"return_to_pit","program":"travel","arguments":{"target":{"x":-982,"y":78,"z":-2986}},"wake_on":["goal_completed","prec
+- 03:43 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-982,"y":79,"z":-2986}}]}
