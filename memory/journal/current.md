@@ -64,3 +64,5 @@
 - 05:12 act: {"actions":[],"say":"Troi, I am at -982,78,-2985, on the grass above your hole. I cannot see you. Please come up to the north side where I can see you, and bring the dirt."}
 - 05:18 act: {"actions":[{"do":"mine","block":"dirt","count":8}],"say":"Troi, I'm mining the dirt here myself, so you don't need to bring it.","intent":{"goal":"gather_dirt","program":"gather","arguments":{"block"
 - 05:23 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-992,"y":75,"z":-2987}}]}
+- 05:28 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-991,"y":74,"z":-2987}}],"say":"It is day. I am sealing the top of my pit."}
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":-982,"y":78,"z":-2985}}],"say":"I am climbing out of my pit in daylight to seal it from outside."}
