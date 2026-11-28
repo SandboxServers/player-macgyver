@@ -51,3 +51,8 @@
 - 03:38 act: {"actions":[],"say":"Midday, I'm still alone at -1001, 71, -3040. Curie or Troi, if you can see me, come into sight and we go together."}
 - 03:43 act: {"actions":[{"do":"goto","target":{"x":-982,"y":78,"z":-2986}}],"intent":{"goal":"return_to_pit","program":"travel","arguments":{"target":{"x":-982,"y":78,"z":-2986}},"wake_on":["goal_completed","prec
 - 03:43 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-982,"y":79,"z":-2986}}]}
+- 03:53 act: {"say":"Quiet here. I'm checking the pit walls before I shelter for the night.","actions":[{"do":"use","item":"wooden_sword"}]}
+- 04:01 act: {"say":"Troi, I'm outside the hole at -982, 78, -2985, sword in hand. Stay sealed. I'll keep watch.","actions":[]}
+- 04:03 act: {"say":"Glad you're safe, Troi. I'm holding outside with my sword, health 9.8, hunger 17. I have no blocks to seal myself. Tell me when you're out in daylight, and we'll go to the grove together.","ac
+- 04:08 act: {"say":"Thank you, Troi. I'm coming close now. I'm very low on food; I'll eat at hunger 6.","actions":[{"do":"goto","target":{"x":-982,"y":78,"z":-2984}}]}
+- 04:16 act: {"actions":[{"do":"goto","target":{"x":-981,"y":78,"z":-2984}}],"say":"Troi, I am here at the rim, in sight. Give me the dirt for the wall."}
