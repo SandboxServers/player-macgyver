@@ -56,3 +56,11 @@
 - 04:03 act: {"say":"Glad you're safe, Troi. I'm holding outside with my sword, health 9.8, hunger 17. I have no blocks to seal myself. Tell me when you're out in daylight, and we'll go to the grove together.","ac
 - 04:08 act: {"say":"Thank you, Troi. I'm coming close now. I'm very low on food; I'll eat at hunger 6.","actions":[{"do":"goto","target":{"x":-982,"y":78,"z":-2984}}]}
 - 04:16 act: {"actions":[{"do":"goto","target":{"x":-981,"y":78,"z":-2984}}],"say":"Troi, I am here at the rim, in sight. Give me the dirt for the wall."}
+- 04:41 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Daylight, I'm at my pit rim with my sword in hand. Troi, Curie, if you are in sight, come close and we go to the grove together."}
+- 04:43 act: {"actions":[],"say":"Troi, I'm on the grass at -982, 78, -2985, just south-east of your hole, sword in hand. Climb out at the north side and come into sight. I will wait here."}
+- 04:47 act: {"actions":[],"say":"Troi, I see you. I'm at -982, 78, -2985, in sight, sword in hand. Give me 8 dirt from where you stand, then we seal the hole together before dark."}
+- 04:52 act: {"say":"Troi, I see no dirt in my pack yet. Please give the 8 dirt to me here, I am at -982,78,-2985.","actions":[{"do":"use","item":"wooden_sword"}],"intent":{"goal":"hold_and_wait_for_dirt","program
+- 04:53 act: {"actions":[],"say":"Still here at -982,78,-2985 with my sword in hand. Troi, if you are near, the 8 dirt would help me close a shelter."}
+- 05:12 act: {"actions":[],"say":"Troi, I am at -982,78,-2985, on the grass above your hole. I cannot see you. Please come up to the north side where I can see you, and bring the dirt."}
+- 05:18 act: {"actions":[{"do":"mine","block":"dirt","count":8}],"say":"Troi, I'm mining the dirt here myself, so you don't need to bring it.","intent":{"goal":"gather_dirt","program":"gather","arguments":{"block"
+- 05:23 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-992,"y":75,"z":-2987}}]}

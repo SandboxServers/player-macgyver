@@ -1,7 +1,6 @@
-Handoff (midday, day 1192)
+Handoff (day 1198)
 
-- I am at -1001,71,-3040 on grass, alone, in daylight. Not enclosed. Health 9.8 steady, hunger 17 (do not eat until 6 or below). Hand empty; wooden_sword is in pack, equip it before any fight.
-- Pack: 1 chicken, 4 rotten_flesh, 1 dirt, 1 apple, 3 sticks, wooden_sword.
-- Curie last seen out of sight toward Troi's hole at -981,76,-2986; she was at 5.6 health when I gave her a chicken. Troi not seen since day 1191.
-- No bed known. Do not sleep unless sealed. Do not travel at night or alone.
-- Debts: Clark 2 dark oak planks; Sisko 2 oak planks; Rocky's spare sword owed to me.
+- At -992,74,-2987, in a dug pit in stone/dirt. Sword in hand, health 9.8, hunger 17 (do not eat until 6 or below).
+- Mined 8 dirt myself; I hold 27 dirt. Sides are solid per view. The air cell above my head is still open: placing dirt there failed because my body fills it.
+- Troi and Curie not in sight. Debts unchanged: Clark 2 dark oak planks, Sisko 2 oak planks, Rocky's sword owed to me.
+- Next: close the top (step out and seal it, or wait for daylight). Do not go out at night without company.
