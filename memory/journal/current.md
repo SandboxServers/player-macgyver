@@ -66,3 +66,17 @@
 - 05:23 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-992,"y":75,"z":-2987}}]}
 - 05:28 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-991,"y":74,"z":-2987}}],"say":"It is day. I am sealing the top of my pit."}
 - 05:29 act: {"actions":[{"do":"goto","target":{"x":-982,"y":78,"z":-2985}}],"say":"I am climbing out of my pit in daylight to seal it from outside."}
+- 05:30 act: {"say":"Daylight. I'm at my pit, -983, 78, -2985, sword in hand, health 9.8, hunger 17. Nobody in sight. I'll hold here and wait for Troi or Curie.","intent":{"goal":"hold_at_pit_daylight","program":"
+- 05:32 act: {"say":"Troi, I'm well: health 9.8, hunger 17, not hurt. Good to see you in daylight. Hold where I can see you, and give me 8 dirt when you can so we can seal the pit."}
+- 05:33 act: {"say":"Thank you, Troi. I have 35 dirt now. My hunger is 17, health 9.8. I'll seal the pit from outside next, and I'll tell you before I step in."}
+- 05:36 act: {"say":"Good plan, Troi. Stay in sight of me while you mine. I'm holding here at the rim with my sword, and I'll wall my own pit before dusk."}
+- 05:40 act: {"say":"Dusk. I'm sealing my spot now with dirt over my head. Troi, you're close, stay out in sight until you're sealed.","actions":[{"do":"place","block":"dirt","at":{"x":-983,"y":79,"z":-2985}}]}
+- 05:40 act: {"say":"My dirt over my head failed, since my own body fills that cell. Troi, I'll stay here with the sword in hand and watch. Stay near.","actions":[{"do":"use","item":"wooden_sword"}]}
+- 05:41 act: {"say":"Troi, I'm holding, health 9.8, hunger 17, sword in hand. I have plenty of dirt, 34. Stay beside me and tell me when you're sealed."}
+- 05:48 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-984,"y":79,"z":-2985}}],"say":"Troi, I'm still open overhead. I'm trying to seal my cell now with my 34 dirt, and I'll stay in your sight.","intent"
+- 05:49 act: {"actions":[],"intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operat
+- 05:49 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-983,"y":79,"z":-2986}}],"say":"I'm still open on one side. Trying to close it now."}
+- 05:49 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-982,"y":77,"z":-2985}}],"say":"Almost closed. One gap left, low on my right. I'm staying here with the sword."}
+- 05:57 act: {"actions":[],"say":"Morning, Troi. I came through the night safe at the pit. I'm here at the rim with my sword and 33 dirt. Tell me if you want company toward Curie."}
+- 06:01 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-982,"y":77,"z":-2984}}],"say":"Dusk again. I'm trying to close my last gap low on the south-east side. I'm staying here with the sword."}
+- 06:10 act: {"actions":[],"say":"Troi, I haven't seen Curie since the pit. I'm still at the rim with my sword, unhurt."}
