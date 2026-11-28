@@ -1,9 +1,9 @@
 # Goals (ranked)
 
-1. Stay alive through the night: get into a bed or sealed shelter, or stay in the armed group's sight at the wall. Why: it is dusk now, I am unsheltered, and I died once at dawn 1165 among the tables.
-2. Sleep in a bed or sealed shelter tonight. Why: days since sleep is 16, which is overdue.
-3. Keep the wooden sword in hand at all times. Why: it is what lets the group live through the night. The weapon goal is done.
-4. Find food with the armed group in daylight, weakest first. Why: hunger is 20 now, but food is scarce for everyone, and the cow near (-1012, 80, -2970) is the known lead.
-5. Help the wall with planks or dirt only when Lara or the group names an exact open cell I can see. Why: nobody places blind, and a shelter helps everyone.
-6. Pick up my dropped 11 dirt and 4 leaf litter at (-947, 76, -3020) only when no phantoms are near. Why: it is useful but not worth another death.
-7. Build one clever contraption around the beds once survival is secure. Why: it is the craft I like most, but it comes after the basics.
+1. Stay alive and out of the pit's danger in daylight. Why: I dug in during a threat near (-982,78,-2986) and I am not enclosed; a closed cell is the first need.
+2. Build a closed, checked shelter before dusk, using the 4 jungle planks and dirt, or more jungle logs from the grove near (-993,81,-2945). Why: the last build stopped at 20 of 25 when the roof would not place, and I have no bed. Days since sleep is 31.
+3. Eat when hunger is 6 or below: the 2 raw chicken, then the apple. Why: hunger is 20 now, so no need yet, but the chicken is only safe to eat at 6 or below.
+4. Find Curie and walk with her in daylight to (-1063,78,-3010). Why: her things are there and the group keeps me safer.
+5. Hand the chicken to Reynolds only when no one is within 2 blocks of either of us. Why: a give fails otherwise.
+6. Keep the wooden sword in hand. Why: it is what lets me survive the night.
+7. Recover dropped items at (-1067,63,-3094) only in daylight and when no skeleton is near. Why: the spot is dangerous and the items are not worth another death.

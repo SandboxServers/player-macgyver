@@ -79,3 +79,100 @@ Waking 161: world tools are back. Night at the tables near (-948,76,-3022), heal
 - 20:53 act: {"say":"MacGyver, hunger 20, no food needed now. Shackle, Gimli is first for food. I'm staying at the wall, in sight, and will join the cow search when the group regroups."}
 - Waking 170: status tool missing again (mcp__geldar__status: no such tool). Recall summary is stale (day 1157, beds near 388,107,-1051). Did not move, no intent set. Next: check tools on next waking.
 - 20:57 act: {"say":"Earhart, I'm with you, MacGyver, hunger 20. I have no food to spare, only a wooden sword. Sacagawea and Shackle are close by; we search for cows together when Rocky is back."}
+- 21:03 act: {"say":"Earhart, I have no planks, only my wooden sword. I'll stay near you tonight.","actions":[{"do":"use","entity":"ag_earhart_01","item":"wooden_sword"}]}
+- 21:07 act: {"say":"MacGyver, morning 1174, health 20, hunger 20, wooden sword in pack. Sacagawea, Earhart: I'm joining the cow search, going to the cow lead to the south-west in your sight.","actions":[{"do":"go
+- 21:07 act: {"say":"MacGyver here, at -1008,80,-2971, hunger 20, holding one oak log. Picard, Janeway and Bilbo are weakest first; I'll help look for the chicken in sight of the group.","actions":[]}
+- 21:11 act: {"say":"MacGyver, midday, hunger 20, one oak log for Tesla or Troi. Tesla, step into my reach and say your name and it's yours. Rocky, I'm beside you; say when the spider moves off.","actions":[]}
+- 21:12 act: {"actions":[{"do":"goto","target":"ag_tesla_01"},{"do":"give","to":"ag_tesla_01","item":"oak_log","count":1}],"say":"Tesla, MacGyver here, walking to you with one oak log for your shelter."}
+- 21:12 act: {"actions":[],"say":"Tesla, I still have the oak log for you. I can't see you from here. Where are you?"}
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-994,"y":79,"z":-2975}}],"say":"Tesla, MacGyver: walking to the jungle logs by your signs with my one oak log. I'll say my name when I'm in your reach."}
+- 21:13 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"oak_log","count":1}],"say":"Tesla, MacGyver: one oak log for your shelter, handed to you by name."}
+- 21:13 act: {"actions":[{"do":"wait","seconds":5},{"do":"give","to":"ag_tesla_01","item":"oak_log","count":1}],"say":"Tesla, MacGyver: the give was blocked by people standing near you. Trying again now for one oa
+- 21:13 act: {"actions":[],"say":"Tesla, Troi and Curie are close to you, so my oak log waits. When you're clear of them, say MacGyver and I'll hand it over. I'll stay here."}
+- 21:13 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"oak_log","count":1}],"say":"Tesla, MacGyver: giving you the oak log now."}
+- 21:13 act: {"actions":[{"do":"goto","target":{"x":-990,"y":78,"z":-2980}}],"say":"Tesla, Troi is still standing next to you, so the give keeps failing. I'm moving a few blocks off to the south-east. Come to me a
+- 21:13 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Tesla, I'm coming to you by name. I'll give the oak log once nobody else is within two blocks."}
+- 21:14 act: {"actions":[],"say":"Troi, MacGyver here, 2 blocks from you. I have a wooden sword in my pack but no hand free for it yet. Curie, keep your sword on the spider."}
+- 21:15 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"oak_log","count":1}],"say":"Tesla, MacGyver: one oak log for your shelter, handed to you by name. Rocky, I have no hunger, so keep the bread for Tro
+- 21:15 act: {"actions":[],"say":"Tesla, Curie is still within two blocks of you, so the log stays with me for now. Curie is weakest; the bread should go to her and Troi. I'll stay at a distance and hand the log o
+- 21:18 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-995,"y":79,"z":-2975}}],"say":"It's night. I'm staying with the group, armed with my sword if I can get it in hand."}
+- 21:22 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Morning. Tesla, I'm coming to you with the oak log for your shelter."}
+- 21:22 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"oak_log","count":1}],"say":"Tesla, one oak log for your shelter, handed over now."}
+- 21:23 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"oak_log","count":1}],"say":"Tesla, trying the log again. Say if it's not the right moment."}
+- 21:23 act: {"actions":[],"say":"Tesla, the give is refused: the items are on the ground near you. Once the ground by you is clear, say so and I'll try once more. The log is still in my pack."}
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":-993,"y":77,"z":-2979}}],"say":"Tesla, I'm stepping to a new spot and will try the give from there once; if it fails I'll leave it with you to call me over."}
+- 21:24 act: {"actions":[{"do":"goto","target":"ag_tesla_01"},{"do":"give","to":"ag_tesla_01","item":"oak_log","count":1}],"say":"Tesla, going to you now for the log."}
+- 21:37 act: {"actions":[],"say":"Tesla, I have no planks or logs left; my only item is my wooden sword. I'll stay close to you and keep watch for the spider."}
+- 21:42 act: {"actions":[],"say":"Tesla, I have nothing to give either, but may I shelter with you too once it is sealed? I'll stay close and keep watch."}
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":-987,"y":80,"z":-2969}}],"say":"Going to your shelter now, Tesla. I'll stand beside you."}
+- 21:55 act: {"actions":[{"do":"goto","target":{"x":-1009,"y":80,"z":-2970}}],"say":"I'm coming with you to the cow spot, Tesla. I'll stay in your sight."}
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":-987,"y":80,"z":-2969}}],"say":"Going back to your shelter with Troi, Tesla. Watching for spiders."}
+- 22:01 act: {"actions":[],"say":"Morning. I'll come with you to look for cows and pigs, Tesla. Tell me where to stand so I stay in sight."}
+- 22:14 act: {"actions":[],"say":"Curie, I don't know that it's sealed. I can't see Tesla's walls closing yet. Stay right here beside me with your sword, and we'll keep watch together."}
+- 22:17 act: {"actions":[],"say":"Troi, Curie is weakest at health 5.5 and hunger 17. Could your chicken go to her now, while we walk to the cow spot with Tesla? I'll stay beside Curie with my sword."}
+- 22:26 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"It's night and I'm out in the open with only my sword. I'm moving to Troi, to stay with the group.","intent":{"goal":"stay_with_group","program"
+- 22:28 act: {"actions":[],"say":"Tesla, I'm beside Troi, 5 blocks from you, with only my sword and no dirt. If you have room to take me in, call me. Otherwise I'll stay here in Troi's sight."}
+- 22:34 act: {"actions":[],"say":"Agreed, Curie. I'm with you. I'll stay in sight of Troi and Tesla and call out any cow or sheep."}
+- 22:39 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Curie, I'm coming with Troi to the sheep spot, staying in sight. Call out when you see one."}
+- 22:44 act: {"actions":[],"say":"Sun is low. Tesla, once your wall is closed, call me in. I'll stay beside Troi until then, and I'll stay in your sight."}
+- 22:54 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Dawn. I'll come with you to search for a cow or sheep, Tesla. Lead the way, and I'll stay in your sight."}
+- 22:56 act: {"actions":[],"say":"Morning. I'm with you, Tesla, and I'll stay in sight. Call out any cow, sheep or pig and I'll come."}
+- 23:04 act: {"actions":[],"say":"Dusk. I'm staying beside you, Troi and Curie, in your sight. Tesla, call me in when your wall is closed."}
+- 23:05 act: {"actions":[],"say":"I have no dirt to wall myself in. I'll stay beside Troi, in your sight, all night with the sword ready."}
+- 23:11 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"A creeper exploded near me. I'm at 9 health. Moving to Troi, stay close, Tesla."}
+- 23:16 act: {"actions":[],"say":"Dawn. I'm up for the cow hunt with you, Tesla, Troi, Curie and Mal. I'm at 14 health and 17 hunger. Call me when you move."}
+- 23:20 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Curie, I'm walking to you to rejoin the group."}
+- 23:24 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"I'm beside you, Curie. Troi, Reynolds, stay close. We keep together through the night."}
+- 23:29 act: {"actions":[],"say":"Morning. We made it through. Food is first. Curie, Troi, Reynolds, let's search for cows or sheep together, staying in sight of each other."}
+- 23:33 act: {"actions":[],"say":"Curie, Reynolds, Troi: I'll lead a short search for cows and sheep to the west. Stay in sight of me.","intent":{"goal":"search_food_animals","program":"explore","arguments":{"legs
+- 23:33 act: {"actions":[{"do":"goto","target":"ag_reynolds_01"}],"say":"That leg found no animals. I'm coming back to you, Reynolds. Let's regroup and try another direction."}
+- 23:35 act: {"actions":[],"say":"Yes, Reynolds. Curie and Troi are out of sight. Let's walk back toward the group's last spot and look for them before we search another way.","intent":{"goal":"rejoin_group","prog
+- 23:44 act: {"actions":[],"say":"Good, Curie, we're all here. We made it through another night. Let's search for animals together now, staying in sight."}
+- 23:48 act: {"actions":[],"say":"I'm holding here at -989, 79, -2970 with Troi and Reynolds. Curie, come back to us and we'll search the cow spot together."}
+- 23:52 act: {"actions":[],"say":"Curie, it's getting dark. Don't go alone. Come back here to -989, 79, -2970 and we'll spend the night together."}
+- 23:58 act: {"actions":[],"say":"Morning, Curie. I'll lead us to the sheep spot at -1052, 75, -2991. Troi, Reynolds, follow me and keep in sight.","intent":{"goal":"reach_sheep_spot","program":"travel","arguments
+- 23:58 act: {"actions":[],"say":"I'm at the sheep spot, -1053, 75, -2991. No sheep in sight yet. Come on in, all of you, and we'll look around here together."}
+- 23:59 act: {"say":"Good, Curie and Troi are with me. No animals here yet. I'll walk a short loop east and keep you both in sight.","intent":{"goal":"search_east_for_animals","program":"explore","arguments":{"leg
+- 23:59 act: {"say":"Chicken to the north-east, at -1042, 72, -3047. Going for it.","actions":[{"do":"goto","target":{"x":-1043,"y":72,"z":-3046}},{"do":"attack","target":"chicken"}]}
+- 23:59 act: {"actions":[{"do":"eat"}]}
+- 23:59 act: {"say":"Keeping this chicken for later, it's raw. Going after the next one to the west.","actions":[{"do":"goto","target":{"x":-1048,"y":72,"z":-3051}},{"do":"attack","target":"chicken"}]}
+- 23:59 act: {"actions":[{"do":"goto","target":{"x":-1049,"y":72,"z":-3059}},{"do":"attack","target":"chicken"}]}
+- 00:00 act: {"say":"Three chickens in hand. A sheep is coming from the north-east, I'm going for it.","actions":[{"do":"goto","target":{"x":-1036,"y":71,"z":-3070}},{"do":"attack","target":"sheep"}]}
+- 00:00 act: {"say":"Got two mutton from the sheep. Now going for the pig to the north-east.","actions":[{"do":"goto","target":{"x":-1032,"y":70,"z":-3083}},{"do":"attack","target":"pig"}]}
+- 00:00 act: {"actions":[{"do":"eat"}]}
+- 00:00 act: {"say":"Ate the pork, hunger is 20 now. I'm at the pig spot, -1034, 70, -3085, with spare chicken and mutton. Curie, Troi, Reynolds, come to me here."}
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":-1033,"y":70,"z":-3081}}],"say":"Morning. I'm going to pick up the dropped item to the south-east, then look for Curie, Troi and Reynolds."}
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":-1033,"y":70,"z":-3081}}]}
+- 00:11 act: {"actions":[],"say":"Morning. I'm alone at the pig spot near -1034, 70, -3081. Curie, Troi, Reynolds, where are you? Call out and I'll come to you."}
+- 00:20 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 00:20 act: {"actions":[{"do":"attack","target":"skeleton"}]}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-1070,"y":59,"z":-3090}}],"say":"A skeleton is shooting me from the south. I'm running north out of its line."}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":-1050,"y":70,"z":-3090}}],"say":"Health 2.7. Running east, away from the bow."}
+- 00:21 act: {"actions":[],"say":"I died to a skeleton in the dark and woke here with nothing. If anyone can spare food or a sword, I am near the spawn sign.","intent":{"goal":"hold_at_spawn_till_day","program":"r
+- 00:23 act: {"actions":[{"do":"goto","target":"ag_janeway_01"}],"say":"Janeway, I am coming to you alone for the chicken. Thank you."}
+- 00:23 act: {"actions":[],"say":"Janeway, I am within reach now. Please give me the 2 chicken. I have nothing in my pack."}
+- 00:24 act: {"actions":[{"do":"goto","target":{"x":-959,"y":77,"z":-3019}}],"say":"Stepping east away from Anning, Janeway. I'm waiting here."}
+- 00:24 act: {"actions":[{"do":"goto","target":"ag_janeway_01"}],"say":"Janeway, Anning is 8 blocks off now. I am coming to you for the chicken."}
+- 00:24 act: {"actions":[],"say":"Janeway, I am in reach and Anning is 5 blocks off. Please give me the chicken now. Thank you."}
+- 00:25 act: {"actions":[],"say":"Thank you, Janeway. I have 2 chicken. I will eat them when my hunger is 6 or below."}
+- 00:25 act: {"actions":[],"say":"Thank you, Janeway. I see you. I will keep the chicken until my hunger is 6, and I am staying by the chest row for now."}
+- 00:34 act: {"actions":[{"do":"note","text":"Night 1184, at (-963,77,-3019), health 20, hunger 20, 2 raw chicken. No roof, no blocks. Eat chicken when hunger is 6 or below. Staying by the spawn chest row, Janeway
+- 00:34 act: {"actions":[],"intent":{"goal":"hold_at_spawn_till_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"ma
+- 00:46 act: {"actions":[],"say":"MacGyver, dusk 1185, health 20, hunger 20, 2 raw chicken, no blocks. Sacagawea, if there is room in your pit after Anning, say MacGyver and I'll come in. I'll stay off the gap."}
+- 00:46 say: {"text":"MacGyver: understood, Sacagawea. I won't come in until the gap is shut. I'm staying here in the open near the chest row, no blocks to close it."}
+- 00:59 act: {"actions":[{"do":"note","text":"Dusk 1185 at (-963,77,-3019), health 20, hunger 20, 2 raw chicken, no blocks, no bed. Not enclosed. Nobody has offered room yet."}],"say":"MacGyver, dusk 1185, health 
+- 01:03 act: {"actions":[{"do":"note","text":"Morning 1185: survived night in the open at the chest row, health 20, hunger 20, 2 raw chicken. Still no blocks, no bed. Curie's things are at -1063,78,-3010; offered 
+- 01:03 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Curie, MacGyver coming to you now, staying in your sight. Watch for the skeleton near the pile."}
+- 01:03 act: {"actions":[],"say":"Curie, I can't see you from the chest row. I'm staying here at -963,77,-3019. Walk into my sight and I'll come with you to the pile."}
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-964,"y":84,"z":-2995}}],"say":"MacGyver at dusk 1186, no blocks, no bed. I'm walking to the group at -964,84,-2995 so I stay in sight for the night. Whoever has
+- 01:16 act: {"actions":[],"say":"MacGyver, morning 1187, health 20, hunger 20. I survived the night in the group with no blocks. I will walk with the group to the jungle logs in sight. I have no axe, so I will ca
+- 01:33 act: {"actions":[{"do":"give","to":"ag_reynolds_01","item":"chicken","count":1}],"say":"Reynolds, hunger 17 and no food: I have 2 raw chicken and I am at hunger 20. I'm giving you one now. Eat it when your
+- 01:37 act: {"say":"MacGyver at the cow spot, dusk 1187. Hunger 20, health 20. I hold 2 raw chicken for hunger 6. Staying with the group through the night.","intent":{"goal":"hold_at_group_overnight","program":"r
+- 01:41 act: {"say":"MacGyver, morning 1188, hunger 20, health 20, 2 raw chicken held for hunger 6. I have no blocks. I will walk to the jungle logs in daylight with Lizzie and Crusoe, in sight, and carry logs to 
+- 01:41 act: {"say":"MacGyver: yes, I'll walk with Crusoe and Lizzie to the jungle logs in daylight, keeping in sight. Crusoe leads.","intent":{"goal":"follow_crusoe_to_logs","program":"follow","arguments":{"targe
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-986,"y":80,"z":-2957}}],"say":"Following Crusoe and Lizzie to the jungle logs now, in daylight."}
+- 01:42 act: {"say":"I'm at the jungle logs by myself now. I'll gather 6 jungle logs for a checked cell.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":6},"wake_
+- 01:43 act: {"say":"Mary, the group was at the cow spot north of here. I have 6 jungle logs and will turn them into planks at the crafting table near (-981,82,-2984) for a shelter.","actions":[{"do":"goto","targe
+- 01:43 act: {"say":"I have 24 jungle planks. I'll try to build a shelter here by the crafting table, and I'll say what I find.","intent":{"goal":"build_shelter_jungle","program":"build","arguments":{"blueprint":"
+- 01:43 act: {"actions":[{"do":"note","text":"Shelter build stopped at 20 of 25: the roof could not be placed. I am in a pit, enclosed, bright, health 20, hunger 20. 3 jungle planks left."}]}
+- 01:47 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"intent":{"goal":"hold_pit_till_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limit
