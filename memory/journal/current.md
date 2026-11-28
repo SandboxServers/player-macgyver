@@ -90,3 +90,8 @@
 - 06:55 act: {"say":"Night has come. I am still on the rim, not sealed. Troi is back in his pit. I will hold here and keep the sword ready.","intent":{"goal":"hold_rim_till_day","program":"rest","arguments":{},"wa
 - 06:57 say: {"text":"Troi, morning. I held the rim through the night and am unhurt. The gap is down and to my right, past the grass and dirt. I will look again in the light."}
 - 07:07 say: {"text":"Dusk again. I am still on the rim, not sealed, with the sword in hand. Anyone nearby, I would welcome company through the night."}
+- 07:16 say: {"text":"Troi, Curie, anyone near? I am on the pit rim, the south-east gap still open. I will wait here in daylight."}
+- 07:20 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Night now. I am staying still on the rim with my sword out."}
+- 07:24 say: {"text":"Morning, Troi. I am on the pit rim, sword in hand, health 9.8. I will hold here until you are in sight, then walk with you to the group spot."}
+- 07:29 say: {"text":"Troi, I see you are back. My gap is down and to my right, the south-east side of the rim. I have 33 dirt, so keep yours. Stay in sight and we will sort the wall together."}
+- 07:32 say: {"text":"Troi, I will keep watch. The top of your pit is still open as far as I can tell from here. Stay still."}
