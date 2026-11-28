@@ -80,3 +80,10 @@
 - 05:57 act: {"actions":[],"say":"Morning, Troi. I came through the night safe at the pit. I'm here at the rim with my sword and 33 dirt. Tell me if you want company toward Curie."}
 - 06:01 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-982,"y":77,"z":-2984}}],"say":"Dusk again. I'm trying to close my last gap low on the south-east side. I'm staying here with the sword."}
 - 06:10 act: {"actions":[],"say":"Troi, I haven't seen Curie since the pit. I'm still at the rim with my sword, unhurt."}
+- 06:16 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-982,"y":78,"z":-2984}}],"say":"Troi, I'm still on the pit rim with one gap to the south-east. I'm trying to close it with dirt."}
+- 06:16 act: {"actions":[{"do":"use","at":{"x":-983,"y":78,"z":-2985},"item":"wooden_sword"}]}
+- 06:17 act: {"actions":[],"say":"Troi, I'm holding still on the rim, not wandering. I'll close the gap at first light."}
+- 06:17 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-982,"y":77,"z":-2984}}],"say":"Morning, Troi. I'm trying to fill the low gap on my south-east side now."}
+- 06:17 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-984,"y":78,"z":-2984}}]}
+- 06:17 say: {"text":"Troi, my dirt keeps failing at the gap, the spot is occupied. Can you see which block is blocking it from your side?"}
+- 06:21 act: {"actions":[],"say":"Troi, my view says the gap is down and to my right, the south-east side. I'm staying still until I can see it clearly."}
